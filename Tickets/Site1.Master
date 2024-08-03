@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Tickets.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - HRMS</title>
+    <link href="Content/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+             <asp:ContentPlaceHolder ID="NavigationContent" runat="server">
+
+                 <ul id="nav-bar">
+                     <li><a href="Home.aspx">Home</a></li>
+                     <asp:PlaceHolder ID="EmployeeNav" runat="server">
+                         <li><a href="RaiseTicket.aspx">Raise Ticket</a></li>
+                         <li><a href="MyTickets.aspx">My Tickets</a></li>
+                     </asp:PlaceHolder>
+                     <asp:PlaceHolder ID="SupportNav" runat="server">
+                         <li><a href="ManageTickets.aspx">Manage Tickets</a></li>
+                     </asp:PlaceHolder>
+                    <%-- <asp:PlaceHolder ID="HRNav" runat="server">
+                         <li><a href="AllTickets.aspx">View All Tickets</a></li>
+                     </asp:PlaceHolder>--%>
+                     <li><a href="Logout.aspx">Logout</a></li>
+                 </ul>
+
+             </asp:ContentPlaceHolder>
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

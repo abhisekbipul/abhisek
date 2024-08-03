@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\managetickets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\managetickets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\supportdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\supportdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\mytickets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\mytickets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|c:\\users\\abhisek patra\\source\\repos\\tickets\\tickets\\managetickets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\managetickets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\raiseticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\raiseticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\raiseticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\raiseticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\mytickets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\mytickets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\supportdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\supportdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\employeedashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\employeedashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\employeedashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\employeedashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\tickets\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6228F053-1958-44E0-BFA7-CF90FF78108D}|Tickets\\Tickets.csproj|solutionrelative:tickets\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Login.aspx",
+              "RelativeDocumentMoniker": "Tickets\\Login.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Login.aspx",
+              "RelativeToolTip": "Tickets\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T12:32:15.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTickets.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\MyTickets.aspx.cs",
+              "RelativeDocumentMoniker": "Tickets\\MyTickets.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\MyTickets.aspx.cs",
+              "RelativeToolTip": "Tickets\\MyTickets.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:41:33.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupportDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\SupportDashboard.aspx",
+              "RelativeDocumentMoniker": "Tickets\\SupportDashboard.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\SupportDashboard.aspx",
+              "RelativeToolTip": "Tickets\\SupportDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T14:50:18.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageTickets.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\ManageTickets.aspx",
+              "RelativeDocumentMoniker": "Tickets\\ManageTickets.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\ManageTickets.aspx",
+              "RelativeToolTip": "Tickets\\ManageTickets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T18:05:25.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageTickets.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\ManageTickets.aspx.cs",
+              "RelativeDocumentMoniker": "Tickets\\ManageTickets.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\ManageTickets.aspx.cs",
+              "RelativeToolTip": "Tickets\\ManageTickets.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:11:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Site1.Master",
+              "RelativeDocumentMoniker": "Tickets\\Site1.Master",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Site1.Master",
+              "RelativeToolTip": "Tickets\\Site1.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T12:47:25.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RaiseTicket.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\RaiseTicket.aspx",
+              "RelativeDocumentMoniker": "Tickets\\RaiseTicket.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\RaiseTicket.aspx",
+              "RelativeToolTip": "Tickets\\RaiseTicket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T13:02:44.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RaiseTicket.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\RaiseTicket.aspx.cs",
+              "RelativeDocumentMoniker": "Tickets\\RaiseTicket.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\RaiseTicket.aspx.cs",
+              "RelativeToolTip": "Tickets\\RaiseTicket.aspx.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:04:19.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Tickets\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Site1.Master.cs",
+              "RelativeToolTip": "Tickets\\Site1.Master.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwv0gAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:56:44.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyTickets.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\MyTickets.aspx",
+              "RelativeDocumentMoniker": "Tickets\\MyTickets.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\MyTickets.aspx",
+              "RelativeToolTip": "Tickets\\MyTickets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T14:40:09.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SupportDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\SupportDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Tickets\\SupportDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\SupportDashboard.aspx.cs",
+              "RelativeToolTip": "Tickets\\SupportDashboard.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDgAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:52:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Logout.aspx",
+              "RelativeDocumentMoniker": "Tickets\\Logout.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Logout.aspx",
+              "RelativeToolTip": "Tickets\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T03:57:56.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "Tickets\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Logout.aspx.cs",
+              "RelativeToolTip": "Tickets\\Logout.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:59:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Tickets\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Login.aspx.cs",
+              "RelativeToolTip": "Tickets\\Login.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:40:38.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\EmployeeDashboard.aspx",
+              "RelativeDocumentMoniker": "Tickets\\EmployeeDashboard.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\EmployeeDashboard.aspx",
+              "RelativeToolTip": "Tickets\\EmployeeDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T13:50:54.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\EmployeeDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Tickets\\EmployeeDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\EmployeeDashboard.aspx.cs",
+              "RelativeToolTip": "Tickets\\EmployeeDashboard.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:56:39.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Home.aspx",
+              "RelativeDocumentMoniker": "Tickets\\Home.aspx",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Home.aspx",
+              "RelativeToolTip": "Tickets\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T13:00:47.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Tickets\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\ABHISEK PATRA\\source\\repos\\Tickets\\Tickets\\Content\\Site.css",
+              "RelativeToolTip": "Tickets\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-04T12:53:41.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
